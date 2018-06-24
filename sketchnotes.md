@@ -1,24 +1,24 @@
 # Sketchnotes weekly nerd
 
 ## Sketchnote workshop
-![](sketchnotes.jpg)
+![](https://github.com/RobinFrugte97/weekly-nerd/blob/master/images/sketchnotes.jpg)
 ## Git workshop Titus
-![](git1.jpg)
-![](git2.jpg)
+![](https://github.com/RobinFrugte97/weekly-nerd/blob/master/images/git1.jpg)
+![](https://github.com/RobinFrugte97/weekly-nerd/blob/master/images/git2.jpg)
 ## Wat een developer moet kunnen Peter Paul Koch
-![](ppk1.jpg)
-![](ppk2.jpg)
-![](ppk3.jpg)
+![](https://github.com/RobinFrugte97/weekly-nerd/blob/master/images/ppk1.jpg)
+![](https://github.com/RobinFrugte97/weekly-nerd/blob/master/images/ppk2.jpg)
+![](https://github.com/RobinFrugte97/weekly-nerd/blob/master/images/ppk3.jpg)
 ## TamTam
-![](tamtam1.jpg)
-![](tamtam2.jpg)
+![](https://github.com/RobinFrugte97/weekly-nerd/blob/master/images/tamtam1.jpg)
+![](https://github.com/RobinFrugte97/weekly-nerd/blob/master/images/tamtam2.jpg)
 ## De Voorhoede
-![](voorhoede.jpg)
+![](https://github.com/RobinFrugte97/weekly-nerd/blob/master/images/voorhoede.jpg)
 ## Schiphol Ischa
-![](ischa1.jpg)
-![](ischa2.jpg)
+![](https://github.com/RobinFrugte97/weekly-nerd/blob/master/images/ischa1.jpg)
+![](https://github.com/RobinFrugte97/weekly-nerd/blob/master/images/ischa2.jpg)
 ## Bluetooth Niels
-![](bluetooth1.jpg)
-![](bluetooth2.jpg)
+![](https://github.com/RobinFrugte97/weekly-nerd/blob/master/images/bluetooth1.jpg)
+![](https://github.com/RobinFrugte97/weekly-nerd/blob/master/images/bluetooth2.jpg)
 ## Vitaly Friedman
-![](vitaly.jpg)
+![](https://github.com/RobinFrugte97/weekly-nerd/blob/master/images/vitaly.jpg)
